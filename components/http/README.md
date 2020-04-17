@@ -7,3 +7,5 @@
 |-|-|-|
 |config.domain|`127.0.0.1`|API接口域名|
 |config.api_url|`/index.php/api`|网址前辍|
+
+## Api接口
